@@ -1,365 +1,365 @@
 questions = 
     [[//Federal-Unitary`
         [//4
-            "There is no need for a national government",
-            "Subdivisions of nations should have their own militaries",
-            "State laws should have precedence over national laws"
+            "Немає потреби в центральному уряді",
+            "Регіони повинні мати власні збройні сили",
+            "Регіональне законодавство повинно мати більшу вагу ніж загальнодержавне"
         ],
         [//3
-            "State and local laws should have precedence over national laws",
-            "The national government can't understand what the people need.",
-            "People should hold more loyalty to their local state than their country."
+            "Регіональне та місцеве законодавство разом повинні мати більшу вагу ніж загальнодержавне",
+            "Центральний уряд не може зрозумыти що потрібно людям",
+            "Люди повинні бути більш відданними своєму краєві ніж державі в цілому"
         ],
         [//2
-            "Local governments should have more power than they currently do",
-            "Laws should vary from area to area and culture to culture within a country.",
-            "It's a good idea to test a policy in one state rather than implementing it nationwide right away"
+            "Місцеві органи самоврядування повинні мати більше повноважень ніж мають зараз",
+            "Законам слід було б бути різними в різних регіонах відповідно до культури",
+            "Запроваджувати реформи на рівні регіонів краще ніж на загальнодержавному"
             
         ],
         [//1
-            "Local governments can understand their citizens better than the national government could",
-            "Local governments address issues that the national government would never touch without them",
-            "Local governments give each region good representation of their views"
+            "Місцеві органи самоврядування можуть розуміти громадян краще ніж центральний уряд",
+            "Місцеві органи самоврядування піднімають питання які б центральний уряд без них не підняв би",
+            "Місцеві органи самоврядування добре представляють кожен регіон"
         ],
         [//-1
-            "A country cannot function without a national government",
-            "The national government protects minorities better than some local governments do.",
-            "There are many issues that it does not make sense to address at a local level"
+            "Країна не може існувати без центрального уряду",
+            "Центральний уряд захищає меншини краще за місцеві органи самоврядування",
+            "Існує багато питань які немає сенсу піднімати на місцевому рівні"
         ],
         [//-2
-            "The national government needs more power",
-            "Subdivisions should not be able to exempt from national laws",
-            "People should think of themselves as citizens of their nation rather than their state"
+            "Центральному уряду треба дати більше повноважень",
+            "Усі регіони мають підкорятися загальнодержавному законодавству",
+            "Люди скоріше мають сприймати себе громадянами країни ніж мешканцями конкретного регіону"
         ],
         [//-3
-            "A group of states without a strong national government is merely an alliance, not a nation",
-            "A national government must be strong to adequately protect all its citizens",
-            "States cannot function without a strong national government"
+            "Об'єднання регіонів без сильного центрального уряду це альянс а не держава",
+            "Центральний уряд має бути досить впливовим щоб захищати усіх громадян",
+            "Регіони не можуть функціонувати без сильного центрального уряду"
         ],
         [//-4
-            "There is no need for local or state governments",
-            "Laws should be completely consistent within all regions of a nation",
-            "Strong states weaken a nation"
+            "Немає потреби у місцевих органах самоврядування",
+            "Закони мають бути ідентичними в усіх куточках країни",
+            "Впливовість регіонів послаблює державу"
         ]],[//Democratic-Authoritarian`
         [//4
-            "Direct democracy is the best form of government",
-            "People should vote issue by issue themselves",
-            "Representatives rarely represent the nation well"
+            "Пряма демократія - найкраща форма правління",
+            "Люди мають самі голосувати за кожен законопроект",
+            "Народні депутати рідко представляють інтереси усієї країни"
         ],
         [//3
-            "It is important that the government follows the majority opinion, even if it is wrong.",
-            "The more people asked, the better chance there is of reaching the best decision.",
-            "Nobody but me can adequately represent my views"
+            "Важливо щоб уряд дотримувався найбільш популярної серед громадян позиції навіть якщо вона помилкова",
+            "Чим в більшої кількості людей спитають думки тим кращі будуть рішення уряду",
+            "Ніхто крім мене самого не може представляти мої погляди"
         ],
         [//2
-            "Elections are an effective way of showing government approval",
-            "Democracy is the worst form of government, except for all the others we've tried.",
-            "Each person should have one vote, each equal to every other"
+            "Вибори добре демонструють рівень підтримки уряду населенням",
+            "Демократія найгірша форма правління за винятком усіх інших",
+            "Кожна людина повинна мати рівно один голос на виборах"
         ],
         [//1
-            "Democracy is more than a decision-making process.",
-            "People should have the power to choose their leaders",
-            "The government must be by the people for the people"
+            "Демократія це більше ніж процес приймання рішень",
+            "Люди повинні мати можливість обирати своїх лідерів",
+            "Уряд повинен бути від людей і для людей"
         ],
         [//-1
-            "The stronger the leadership, the better.",
-            "Popular opinion is not always right",
-            "Leaders must be strong or a nation will suffer"
+            "Чим сильніший лідер тим краще",
+            "Популярна в народі думка не завжди правильна",
+            "Без сильних лідерів народ страждатиме"
         ],
         [//-2
-             "A hierarchical state is best.",
-            "Society could not function without leaders and followers",
-             "Democracy makes it too easy for a majority to further itself at the expense of minorities"
+             "Ієрархічна держава - найкраща",
+            "Суспільство не маже існувати без лідерів та послідовників",
+             "При демократії більшості легко домінувати над меншинами"
         ],
         [//-3
-            "The general populace makes poor decisions.",
-             "It is important that we further my group's goals above all others.",
-            "Public opinion swings too much with emotional events to be useful for policy making"
+            "Населення приймає погані рішення",
+             "Важливо просувати інтереси моєї групи понад усе",
+            "Народ занадто підвладний емоціям"
         ],
         [//-4
-            "Elections are a waste of resources",
-            "Catering to popular opinion is detremental to a nation",
-            "A nation must obey its leadership without question"
+            "Вибори це марнування коштів",
+            "Слідування популярній думці руйнує державу",
+            "Народ має без питань підкорюватись державі"
         ]],[//Globalist-Isolationist
         [//4
-            "A united world government would be beneficial to mankind.",
-            "We are first and foremost citizens of Earth",
-            "In order for humanity to survive, we must get past having separate nations"
+            "Наявність планетарного уряду буде корисною для людства",
+            "Ми перш за все громадяни Землі",
+            "Для виживання людства існування у вигляді окремних держав має залишитись у минулому"
         ],
         [//3
-            "The United Nations needs more power",
-            "The United Nations should have a military to enforce its resolutions",
-            "Having independent nations with the risk of global conflict creates a large threat to humanity as a whole"
+            "ООН потребує ширших повноважень",
+            "ООН повинно мати власні збройні сили",
+            "Існування незалежних держав із ризиком конфлікту між ними загрожує людству в цілому"
         ],
         [//2
-            "I support regional unions, such as the European Union.",
-            "Governments should be accountable to the international community.",
-            "Nations fighting among each other gets in the way of progress"
+            "Я підтримую територіальні союзи такі як ЄС",
+            "Уряди мають бути підзвітні світовій спільноті",
+            "Протистояння між державами заважають прогресу"
         ],
         [//1
-            "International trade is generally beneficial.",
-            "Alliances are important for protecting a nation",
-            "Nations should cooperate whenever it benefits them both"
+            "Міжнародна торгівля загалом корисна",
+            "Альянси важливі для захисту держави",
+            "Держави мають співпрацювати незалежно від рівності вигоди від співпраці для них"
         ],
         [//-1
-            "It is important to maintain our national sovereignty.",
-            "My nation is closer to my views than most nations in the world",
-            "I am proud to be in my country"
+            "Важливо зберігати наш національний суверенітет",
+            "Моя нація ближча до моїх поглядів ніж будь яка інша",
+            "Я пишаюся ти що я громадянин своєї країни"
         ],
         [//-2
-            "International aid is a waste of money.",
-            "Alliances can pose a threat to a nation's sovereignty.",
-            "National cultures are important to protect"
+            "Міжнародна допомога це - марнування коштів",
+            "Альянси можуть загрожувати національному суверенітету",
+            "Важливо захищати національну культуру"
         ],
         [//-3
-            "My nation should stay out of international affairs",
-            "The United Nations should be abolished.",
-            "Nobody in other countries has our best interests in mind"
+            "Моя країна має триматись подалі від міжнародних справ",
+            "ООН має бути розпущений",
+            "Ніхто закордоном не піклується про інтереси моєї країни"
         ],
         [//-4
-            "Diplomacy only hurts nations",
-            "There should not be international law",
-            "Any deals other countries want must be bad for us"
+            "Дипломатія тільки шкодить моїй державі",
+            "Не повинно існувати міжнародного законодавства",
+            "Усі угоди з іншими країнами шкодять нам"
         ]],[//Militarist-Pacifist
         [//4
-            "War is needed to make an economy thrive",
-            "A constant state of war benefits a country",
-            "Only those who serve in the military should be allowed to have influence on who is in power"
+            "Війна необхідна для економіки",
+            "Постійний військовий стан корисний для країни",
+            "Тільки військовослужбовці мають вирішувати хто керує країною"
         ],
         [//3
-            "There should be compulsory military service",
-            "Countries that do not serve our interests should be toppled",
-            "Only those who served in the military should be able to gain power in government"
+            "Повинна існувати примусова військова служба",
+            "Необхідно зносити країни що не діють в наших інтересах",
+            "Тільки колишні військовослужбовці мають бути допущені до балотування на державні посади"
         ],
         [//2
-            "Military action by our nation is often necessary to protect it.",
-            "Countries that violate human rights should be toppled",
-            "A military option should always be considered"
+            "Військові дії нашої країни необхідні для її захисту",
+            "Необхідно зносити країни що порушують права людини",
+            "Збройний спосіб вирішення питань має право на існування"
         ],
         [//1
-            "A government must maintain a strong military to defend itself",
-            "A nation usually needs a military in order to survive",
-            "We should respect those who have served in our military"
+            "Країна повинна мати потужні збройні сили для самозахисту",
+            "Державі для виживання зазвичай потрібно мати збройні сили",
+            "Нам варто поважати військовослужбовців"
         ],
         [//-1
-            "It is more important to retain peaceful relations than to further our strength.",
-            "Diplomatic options should always be tried before war is even considered",
-            "Peace is preferable to war whenever possible"
+            "Важливіше підтримувати мирні стосунки ніж укріплювати армію",
+            "Дипломатія завжди має передувати спробі розв'язання конфлікту збройним шляхом",
+            "Мир завжди кращий за війну"
         ],
         [//-2
-            "Even when protesting an authoritarian government, violence is not acceptable.",
-            "Lasting peace leads to prosperity",
-            "War usually leads to worse outcomes"
+            "Навіть під час протесту проти авторитаризму насилля не допустиме",
+            "Підтримка миру веде до процвітання",
+            "Війна завжди дає негативний ефект"
         ],
         [//-3
-            "Military spending is a waste of money.",
-            "We have no right to militarily intervene in other nations",
-            "Countries fall apart with constant war"
+            "Армія це - марнування коштів",
+            "У нас немає права чинити збройну інтервенцію в інші держави",
+            "Постійна війна руйнує країну"
         ],
         [//-4
-            "War is never justified",
-            "In the modern era, militaries aren't really necessary",
-            "Nations should not maintain a military"
+            "Неможливо виправдати війну",
+            "У сучасному світі, армія не є необхідністю",
+            "Країни повинні відмовитись від збройних сил"
         ]],[//Security-Freedom
         [//4
-            "Those who disagree with the government should be removed from the country",
-            "The government should monitor all citizens to combat terrorism",
-            "People should not have protections that could hinder discovering their criminal activity"
+            "Незгодні з урядом мають бути вислані з країни,
+            "Уряд має слідкувати за громадянами для протидії тероризму",
+            "Права і свободи людини що можуть допомогти їй приховати злочинну діяльність не повинні захищатись державою"
         ],
         [//3
-            "Police need more power and protection",
-            "It is very important to maintain law and order.",
-            "A country must be sure to take all measures to enforce its laws"
+            "Поліції потрібно більше повноважень і захисту",
+            "Важливо підтримувати закон і порядок",
+            "Держава має вживати будь-які захисти для забезпечення дотримання її законів"
         ],
         [//2
-            "If you have nothing to hide, then you shouldn't care about the government having access to your communications",
-            "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
-            "Government surveillance is necessary in the modern world."
+            "Якщо тобі нічого приховувати тобі не варто боятись втручання держави в твої комунікації",
+            "Жертвування деякими правами необхідно для захисту від тероризму",
+            "Спостереження з боку держави необхідне в сучасному світі"
         ],
         [//1
-            "The government should have access to the emails of suspected terrorists",
-            "Some freedom must be given up in order to keep people safe",
-            "Absolute freedom makes a society dangerous"
+            "Правоохоронні органи повинні мати доступ до електронної поти підозрюваних терористів",
+            "Деяким свободами можна пожертвувати заради захисту людей",
+            "Абсолютна свобода робить суспільство небезпечним"
         ],
         [//-1
-            "Marijuana should be legalized",
-            "People should be given freedom whenever it causes little security risk",
-            "The government has no business looking into most people's personal lives"
+            "Маріхуана повинна бути легальною",
+            "Людям повинні забезпечувати собод навіть тоді коли це створює певні ризики",
+            "Це не справа держави лізти в особисте життя більшості громадян"
         ],
         [//-2
-            "Abortion should be legal in all cases",
-            "Police should be regulated more",
-            "No authority should be left unquestioned."
+            "Аборти мають бути завжди легальними",
+            "Поліція має бути більш зарегульваною",
+            "Жодна вияв влади не повинен залишатись без питань з боку громадян"
         ],
         [//-3
-            "Victimless crimes (such as drug use) should not be crimes at all.",
-            "Most drugs should be legalized",
-            "Whistleblowers should be strongly protected"
+            "Злочини без жертви(як вживання наркотиків) не повинні бути злочинами взагалі",
+            "Більшіть наркотиків мають бути легалізованими",
+            "Люди що поширюють будь-яку інформацію повинні бути захищені"
         ],
         [//-4
-            "The very existence of the state is a threat to our liberty.",
-            "There should be no police force",
-            "People's freedom should have no limits"
+            "Саме існування держави - загроза свободі",
+            "Поліція не повинна існувати",
+            "Свобода людей не має бути обмежена нічим"
         ]],[//Equality-Markets`
         [//4
-            "Communism, if implemented correctly, would be a good form of economics",
-            "From each according to his ability, to each according to his need",
-            "Equality of outcome is important"
+            "Правильно запроваджений комунізм може бути ефективним",
+            "З кожного по здібностям, кожному по потребах",
+            "Рівність заробітку важлива"
         ],
         [//3
-            "Oppression by corporations is more of a concern than oppression by governments.",
-            "Taxes should be increased on the rich to provide for the poor.",
-            "Public utilities like roads and electricity should be publicly owned."
+            "Утиски з боку корпорацій гірші від утисків з боку держави",
+            "Податки на багатих повинні бути збільшені для допомоги бідним",
+            "Інфраструтура, як то дороги чи електричні мережі, повинні бути у власності держави"
         ],
         [//2
-            "I support single-payer, universal healthcare.",
-            "The wealthy have far more than they need",
-            "Basic things needed to live, such as healthcare, are rights"
+            "Я підтримую лікування для всіх за рахунок держави",
+            "Багаті мають значно більше ніж їм треба",
+            "Базові речі небхідні для життя, наприклад лікування, це - права"
         ],
         [//1
-            "It is necessary for the government to intervene in the economy to protect consumers.",
-            "People should have equal opportunity to succeed",
-            "People born to wealthy families have unfair success even when they aren't skilled and don't work hard"
+            "Держава має втручатись в економіку заради захисту споживачів",
+            "Люди повинні мати рівні можливості для досягнення успіху",
+            "Діти багатих батьків мають несправедливу перевагу над іншими"
         ],
         [//-1
-            "People should have the right to leave their wealth to their descendents",
-            "Excessive government intervention is a threat to the economy.",
-            "Economies without any capitalism will collapse"
+            "Люди повинні мати право залишати свої статки нащадкам",
+            "Надмірне втручання з боку держави - загроза для економіки",
+            "Економіка загнеться без капіталізму"
         ],
         [//-2
-            "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
-            "Capitalism is better than any existing alternative",
-            "Government owned industry is usually a bad idea"
+            "Бездефіцитний бюджет важливіший ніж соціальні витрати",
+            "Капіталізм кращий ніж будь-яка альтернатива",
+            "Державні підприємства - погана ідея"
         ],
         [//-3
-            "The freer the market, the freer the people",
-            "People should have to work for anything they get",
-            "The poor choose to be poor"
+            "Чим вільніший ринок тим вільніші люди",
+            "Люди повинні заробляти самі на все що їм треба",
+            "Бідні самі обирають бідність"
         ],
         [//-4
-            "The government should not regulate the economy at all",
-            "The government should not break up monopolies",
-            "Those who do not work should die"
+            "Уряд взагалі не повинен регулювати економіку",
+            "Уряд не повенен проводити антимонопольну діяльність",
+            "Хто не працює той не їсть"
         ]],[//Secular-Religious
         [//4
-            "Religion should be banned",
-            "Faith is complete nonsense",
-            "Religion must decline for society to progress"
+            "Релігія повинна бути забороненою",
+            "Віра не має сенсу",
+            "Для розвитку суспільства треба відмовитись від релігії"
         ],
         [//3
-            "Religious clothing should be banned from public",
-            "There is no higher power",
-            "The government should not fund any religious organizations in any way"
+            "Релігійний одяг повинен бути забороненим",
+            "Немає жодної вищої сили",
+            "Держава не має спонсувати жодну релігійну організацію"
         ],
         [//2
-            "I support gay marriage",
-            "Every religion must be looked upon equally by the government",
-            "Religion should be removed from everything in our government"
+            "Я підтримую гомосексуальні шлюби",
+            "Ставлення до кожної релігії з боку держави має бути однаковим",
+            "Релігія має бути прибрана з уряду"
         ],
         [//1
-            "Religion does not belong in government",
-            "Laws should not be based on religion",
-            "There must be a separation between church and state"
+            "Релігії не місце в уряді",
+            "Закони не повинні базуватись на релігії",
+            "Церква і держава мають існувати окремо"
         ],
         [//-1
-            "I believe there is something after death",
-            "Religion is benefitial for society",
-            "People must be allowed to follow a religion"
+            "Я вірю що після смерті щось є",
+            "Релігія корисна для суспільства",
+            "Людям треба дозволити будь-яке віросповідання"
         ],
         [//-2
-            "I believe in a higher power",
-            "Religious orginizations often provide better assistance to the poor than the government does",
-            "Children should be educated in religious values."
+            "Я вірю у вищу силу",
+            "Релігійні організації часто краще допомогають бідним ніж держава",
+            "Дітей треба виховувати відповідно до релігії"
         ],
         [//-3
-            "Religion usually provides the truth",
-            "My religious values should be spread as much as possible.",
-            "Sex outside marriage is immoral."
+            "Релігія несе правду",
+            "Я б хотів щоб мої релігійні цінності були якомога більш поширені",
+            "Секс позашлюбом аморальний"
         ],
         [//-4
-            "Theocracy is a good system of government",
-            "The government should support and only recognize one religion",
-            "Most bad things happening in the world are caused by us turning away from religion"
+            "Теократія - хороша форма правління",
+            "Держава повинна визнавати і підтримувати тільки одну релігію",
+            "Більшість поганих речей у світі відбувається тому що ми відвернулись від релігії"
         ]],[//Progressive-Traditional
         [//4
-            "If AI could rule more effectively than humans, then AI should rule",
-            "Genetic modification is a force for good, even on humans.",
-            "Tradition just hinders the progress of technology"
+            "Якщо штучний інтелект керуватиме краще від людей, то нехай керує",
+            "Генетична модифікація(навіть людини) - добро",
+            "Традиції заважають прогресу"
         ],
         [//3
-            "Automation overall is extremely good for society",
-            "Traditions are of no value on their own.",
-            "When people have already suffered for technology to be developed, we should use that technology"
+            "Автоматизація в цілому це дуже добре для суспільства",
+            "Традиції самі по собі не несуть користі",
+            "Раз люди вже доклали стільки зусиль для розробки технології, нам варто було б її використовувати"
         ],
         [//2
-            "We should put effort into getting a person on mars in the near future",
-            "Testing products on animals is ethical",
-            "Technological progress is usually good"
+            "Нам треба відправити людину на Марс найближчим часом",
+            "Тестування на тваринах етичне",
+            "Технологічний прогрес це зазвичай добре"
             
         ],
         [//1
-            "Human Caused climate change is currently one of the greatest threats to our way of life.",
-            "Environmental regulations are essential.",
-            "A better world will come from automation, science, and technology."
+            "Глобальне потепління через дії людини - одне із найбільших загроз добробуту людей",
+            "Регуляції використання навколишньго середовища необхідні",
+            "Карщий світ прийде до нас завдяки автоматизації, науці і техніці"
         ],
         [//-1
-            "To chase progress at all costs is dangerous.",
-            "Technology is not always beneficial",
-            "Traditions are important"
+            "Прогрес за будь-яку ціну небезпечний",
+            "Технології не завжди приносять користь",
+            "Традиції важливі"
         ],
         [//-2
-            "Technology is negatively affecting modern society",
-            "Genetic modification should be used rarely, if ever",
-            "Maintaining family values is essential."
+            "Технології негативно діють на сучасне суспільство",
+            "Генетичні модифікації повинні використовуватись мінімально, якщо взагалі використовуватись",
+            "Важливо підтримувати сімейні цінності"
         ],
         [//-3
-            "Society was better many years ago than it is now.",
-            "It is important that we maintain the traditions of our past.",
-            "The elders in society know the best path for it"
+            "Суспільство багато років тому назад було кращим ніж зараз",
+            "Важливо підтримувати традиції предків",
+            "Найстраші люди знають як краще"
         ],
         [//-4
-            "Traditional medicines are often more effective than modern medicines",
-            "The Internet should be banned",
-            "We must go back to a basic way of life without modern conveniences."
+            "Традиційне лікування часто є кращим від сучасного",
+            "Треба заборонити Інтернет",
+            "Нам треба повернутись до традиційного життя без сучасних зручностей"
         ]],[//Assimilationist-Multiculturalist
         [//4
-            "Foreigners should never enter the country",
-            "We should not allow any refugees",
-            "Only our national language(s) should be spoken in our country"
+            "В'їзд іноземців має бути заборонено",
+            "Ми повинні заборонити в'їзд будь-яким біженцям",
+            "Ми повинні спілкуватися тільки національною мовою"
         ],
         [//3
-            "Only extremely talented immigrants, if that, should be permitted to enter the country",
-            "If we accept migrants at all, it is important that they assimilate into our culture.",
-            "Immigrants can never really adapt to our way of life"
+            "Тільки найталановитішим мігрантам має бути дозволений в'їзд в країну",
+            "Якщо ми взагалі приймаємо мігрантів, то вони мають асимілюватися до нашої культури",
+            "Мігранти ніколи не зможуть адаптуватися до нашого способу життя"
         ],
         [//2
-            "In general, immigrants are bad for the country",
-            "A nation's culture is important to protect",
-            "Illegal Immigrants have no benefits"
+            "Загалом, мігранти шкідливі для країни",
+            "Важливо захищати національну культуру",
+            "Нелегальні мігранти не повинні користуватися жодними благами країни"
         ],
         [//1
-            "Illegal immigrants should be deported in most or all cases",
-            "Immigrants should be expected to learn the language of the country",
-            "Border protection is important"
+            "Нелегальні мігранти мають бути депортовані в більшості випадків",
+            "Від мігрантів очікують вивчення національної мови",
+            "Важливо захищати кордони"
         ],
         [//-1
-            "We should be taking in more refugees",
-            "Immigrants are a net positive",
-            "I enjoy some foreign cultures"
+            "Нам варто приймати більше біженців",
+            "Мігранти загалом корисні",
+            "Мені подобаються деякі іноземні культури"
         ],
         [//-2
-            "No cultures are superior to others.",
-            "We should be more accepting to other cultures",
-            "All societies are a blend of cultures"
+            "Жодна культура не є кращою від інших",
+            "Нам варто більше сприймати інші культури",
+            "Усі суспільства це суміш культур"
         ],
         [//-3
-            "Everybody should speak at least two languages",
-            "All humans share a common identity",
-            "Our culture would be better with other cultures mixed in more"
+            "Коженому варто вміти говорити щонайменше двома мовами",
+            "Всі люди(у світі) хоч чимось схожі одне на одного",
+            "Наша культура виграє від змішування з іншими"
         ],
         [//-4
-            "Governments should be as concerned about foreign citizens as they are about those within their borders.",
-            "Anybody who wants to enter the country should be able to",
-            "The benefits of open borders would outweigh the costs"
+            "Держава має турбуватись про іноземців як про власних громадян",
+            "Треба впускати кожного хто хоче в'їхати в країну",
+            "Плюси від відкритих кордонів виправдовують мінуси"
         ]
     ]];
